@@ -1,0 +1,25 @@
+{
+    "total": 5,
+    "lista": [
+      {
+        "name": "Juan Pérez",
+        "email": "juan@example.com"
+      },
+      {
+        "name": "María López",
+        "email": "maria@example.com"
+      },
+      {
+        "name": "Ana Martínez",
+        "email": "ana@example.com"
+      },
+      {
+        "name": "Carlos Díaz",
+        "email": "carlos@example.com"
+      },
+      {
+        "name": "Lucía Gómez",
+        "email": "lucia@example.com"
+      }
+    ]
+  }
